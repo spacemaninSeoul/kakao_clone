@@ -1,3 +1,3 @@
-# kakao_clone
- 
-KaKao Desktop App Clone
+# Koko Clone 2020 Update
+
+Yeah~
